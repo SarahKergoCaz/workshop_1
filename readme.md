@@ -22,7 +22,7 @@
 - Placez ce qu'il y a à l'intérieur du dossier `main` du repo qu'on vient de télécharger.
 - Puis faites un `git add .`, `git commit` et `git push`.
 
-![Ajout dans la branche main](https://imgur.com/a/nhakGAt)
+![Ajout dans la branche main](https://imgur.com/a/nhakGAt.png)
 
 ---
 
