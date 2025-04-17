@@ -8,7 +8,7 @@
 
 ### 📌 Faites un fork du repo :
 
-![Fork du repo](https://imgur.com/a/R6PwJqX)
+![Fork du repo](https://i.imgur.com/jJiqkgI.png)
 
 ---
 
@@ -22,13 +22,13 @@
 - Placez ce qu'il y a à l'intérieur du dossier `main` du repo qu'on vient de télécharger.
 - Puis faites un `git add .`, `git commit` et `git push`.
 
-![Ajout dans la branche main](https://imgur.com/a/nhakGAt.png)
+![Ajout dans la branche main](https://i.imgur.com/mUDlniq.png)
 
 ---
 
 ### 📌 Créez une nouvelle branche `commandes` :
 
-![Création de la branche commandes](https://imgur.com/a/mZOQg2f)
+![Création de la branche commandes](https://i.imgur.com/kKyB9zy.png)
 
 ---
 
@@ -37,7 +37,7 @@ Maintenant :
 - Changez de branche (`git switch commandes`)
 - Mettez-y le contenu du dossier `commandes` qu'il y avait dans le repo qu'on a téléchargé précédemment.
 
-![Ajout dans la branche commandes](https://imgur.com/a/cTYnlzD)
+![Ajout dans la branche commandes](https://i.imgur.com/PNCEakI.png)
 
 **💡 Remarque :**
 Un message d'erreur en jaune peut apparaître car la branche a été créée en local mais pas encore push.  
