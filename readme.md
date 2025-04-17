@@ -1,11 +1,5 @@
 # Workshop Git — Epitech
 
-### 📌 Aller sur le repo :
-
-➡️ [https://github.com/Workshop-Git-Epitech/workshop_1](https://github.com/Workshop-Git-Epitech/workshop_1)
-
----
-
 ### 📌 Faites un fork du repo :
 
 ![Fork du repo](https://i.imgur.com/jJiqkgI.png)
